@@ -264,3 +264,4 @@ Made for Iran <img src="https://raw.githubusercontent.com/IRNova/Nova-Proxy/main
 
 </div>
 
+# pashar-proxy
